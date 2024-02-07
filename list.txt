@@ -2,3 +2,5 @@ Things to do :
 Practive Java
 Practice git
 Practice Jira
+made some changes on git hub
+this is just for practice
